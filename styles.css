@@ -1,0 +1,42 @@
+body {
+    background-color: olive;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+h2 {
+    color:bisque;
+    text-align: center;
+}
+
+thead {
+    background-color: bisque;
+}
+
+th {
+    font-weight: bold;
+}
+
+table {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.col1 {
+    width: 30%;
+}
+
+td {
+    color: navy;
+}
+
+.mono {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+    width: 20%;
+    border-radius: 5px;
+}
